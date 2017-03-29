@@ -13,3 +13,6 @@ Shows how regular users are commuters and casual users are weekend users. Easy t
 Distracted driving
 https://safetycompass.wordpress.com/2015/04/21/cognitive-distraction-and-the-hands-free-device-myth/
 Suggests hands-free isn't safe! Didn't read the entire article to see if reproducable.
+
+To access jupyter notebook just type: 'localhost:8888' in the address bar of a browser.
+
